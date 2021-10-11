@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/card_rounded_rectangular.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/code_rounded_rectangular.xml" value="0.238671875" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/dialog_customize.xml" value="0.3139240506329114" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/layout_city_item.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/name_rounded_rectangular.xml" value="0.238671875" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/rounded_rectangular_box.xml" value="0.36574074074074076" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/drawable/textview_style.xml" value="0.14188034188034188" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/layout/dialog_customize.xml" value="0.30470085470085473" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/layout/layout_city_item.xml" value="0.1489139515455305" />
+        <entry key="..\:/Users/2020/AndroidStudioProjects/LearnActivity3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.36574074074074076" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
