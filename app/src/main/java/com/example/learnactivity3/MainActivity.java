@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
     /*
     * dialog点击事件，点击后出来城市选择
+    * 可以将dialog单独迁移到一个类中
     * */
     private void showCustomizeDialog() {
         AlertDialog.Builder customizeDialog =
