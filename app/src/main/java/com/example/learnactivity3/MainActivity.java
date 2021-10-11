@@ -34,6 +34,10 @@ public class MainActivity extends AppCompatActivity {
         window.setStatusBarColor(Color.TRANSPARENT);
 
         setContentView(R.layout.activity_main);
+
+        /*
+        * 用清单的方式存放城市列表，不会做
+        * */
         cityList.addAll(City.getList());
 
         //实例化myAdapter并调用带参数的构造方法传一个fruitList的列表
@@ -56,9 +60,6 @@ public class MainActivity extends AppCompatActivity {
                 //outRect.set()中的参数分别对应左、上、右、下的间隔
                 outRect.set(10,10,10,10);
             }
-
-
-
         RelativeLayout relativeLayout = (RelativeLayout) findViewById(R.id.Rl_city_name);
         relativeLayout.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -68,6 +69,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /*
+    * dialog点击事件，点击后出来城市选择
+    * */
     private void showCustomizeDialog() {
         AlertDialog.Builder customizeDialog =
                 new AlertDialog.Builder(MainActivity.this);
