@@ -34,10 +34,6 @@ public class MainActivity extends AppCompatActivity {
         window.setStatusBarColor(Color.TRANSPARENT);
 
         setContentView(R.layout.activity_main);
-
-        /*
-        * 用清单的方式存放城市列表，不会做
-        * */
         cityList.addAll(City.getList());
 
         //实例化myAdapter并调用带参数的构造方法传一个fruitList的列表
@@ -71,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
 
     /*
     * dialog点击事件，点击后出来城市选择
-    * 可以将dialog单独迁移到一个类中
     * */
     private void showCustomizeDialog() {
         AlertDialog.Builder customizeDialog =
