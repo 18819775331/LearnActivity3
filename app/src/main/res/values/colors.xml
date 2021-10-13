@@ -22,4 +22,5 @@
     <color name="clean_blue">#ecf5fe</color><!--淡蓝色-->
     <color name="text_blue">#4689d4</color><!--文本蓝色-->
     <color name="text_green">#3db06e</color><!--文本绿色-->
+    <color name="alpha">#00000000</color><!--透明-->
 </resources>
